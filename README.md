@@ -10,7 +10,7 @@
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python (Django/Flask learning)
 - Database: MySQL (Basics)
-- Tools: Git, GitHub, VS Code  
+- Tools: Git, GitHub, Pycharm, VS Code  
 
 ---
 
